@@ -1,0 +1,210 @@
+.desktop {
+  background-color: #ffffff;
+}
+
+.desktop .overlap {
+  position: relative;
+  height: 1024px;
+  background-image: url(Imagenes/school_15\ [Convertido]-01\ 1.jpg);
+  background-size: cover;
+  background-position: 100% 100%;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1387px;
+  height: 745px;
+  top: 14px;
+  left: 27px;
+}
+
+.desktop .navbar {
+  position: absolute;
+  width: 1387px;
+  height: 235px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .div {
+  position: relative;
+  width: 112.98px;
+  height: 30px;
+}
+
+img {
+  cursor: pointer; /* Cambia el cursor al pasar el ratón por encima del botón */
+}
+img:hover {
+  opacity: 0.8; /* Puedes ajustar la opacidad u otros estilos según tus preferencias */
+}
+.desktop .group {
+  position: absolute;
+  box-sizing: border-box;
+  width: 168px;
+  height: 50px;
+  left: 1055px;
+}
+
+.desktop .div-wrapper {
+  position: relative;
+  width: 166px;
+  height: 50px;
+  background-color: #c24914;
+  border-radius: 10px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 134px;
+  top: 9px;
+  left: 17px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-group-wrapper {
+  position: absolute;
+  width: 168px;
+  height: 50px;
+  top: 35px;
+  left: 817px;
+}
+
+.desktop .overlap-2 {
+  position: relative;
+  width: 166px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #c24914;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 158px;
+  top: 8px;
+  left: 7px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #c24914;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .icono-HOME {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  top: 24px;
+  left: 1293px;
+  object-fit: cover;
+}
+
+.desktop .logotuprofeparticular {
+  position: absolute;
+  width: 258px;
+  height: 250px;
+  top: -8px;
+  left: 34px;
+  object-fit: cover;
+}
+
+.desktop .main {
+  position: absolute;
+  width: 1281px;
+  height: 526px;
+  top: 219px;
+  left: 53px;
+}
+
+h1 {
+  position: absolute;
+  width: 609px;
+  top: -5px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 50px;
+  line-height: 60px;
+  text-align: center;
+  left: 427px;
+  
+}
+
+.desktop .group-2 {
+  width: 400px;
+  height: 200px;
+}
+
+.desktop .element-descuento-primera {
+  position: absolute;
+  width: 252px;
+  height: 241px;
+  top: 285px;
+  left: 1000px;
+}
+
+
+.form-register{
+  width: 400px ;
+  background:#F9E0AE;
+  padding: 30px;
+  margin: auto;
+  margin-top: 10px;
+  border-radius: 4px;
+  font-family: "Poppins", Helvetica;
+  color: #000;
+  box-shadow: 7px 13px 37px #000;
+}
+
+.form-register h2{
+  font-size: 22px;
+  margin-bottom: 20px;
+  text-align: center;
+  
+}
+
+.controls{
+  width: 100%;
+  background:#F9E0AE;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #c24914;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+}
+
+.form-register p {
+height: 40px;
+text-align: center;
+font-size: 18px;
+line-height: 20px;
+}
+
+.form-register a{
+  color: #000;
+  text-decoration: none;
+}
+
+.form-register a:hover{
+  color: #000;
+  text-decoration: underline;
+}
+
+.form-register .botons{
+  width: 100%;
+  background-color: #c24914;
+  border:none;
+  padding: 12px;
+  color: #ffffff;
+  margin: 16px -10px;
+  font-size: 16px;
+  text-align: center;
+}
